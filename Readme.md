@@ -17,3 +17,7 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 [Had train to pune so couldn't continue to 16th]
 1. Went through basics of js from SuperSimpleDev.
 2. Also, started learning basics of Blockchain.
+
+## Day 3
+1. Started learning about DOM.
+2. Started exploring Bloackchain platforms.
