@@ -21,3 +21,7 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 ## Day 3
 1. Started learning about DOM.
 2. Started exploring Bloackchain platforms.
+
+## Day 4
+1. Started working on project VocalPoint - integration of MERN stack & AI/ML
+
