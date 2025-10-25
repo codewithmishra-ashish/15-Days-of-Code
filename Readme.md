@@ -45,3 +45,20 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
    4.1 [Question](https://www.codechef.com/problems/P1209) -> [Code](https://www.codechef.com/viewsolution/1201519188)</br>
    4.2 [Question](https://www.codechef.com/problems/P2209) -> [Code](https://www.codechef.com/viewsolution/1201524879)</br>
    4.3 [Question](https://www.codechef.com/problems/P3209) -> [Code](https://www.codechef.com/viewsolution/1201558328)</br>
+
+
+## Day 6
+1. Leetcode Biweekly Contest 168:</br>
+   1.1 [Question](https://leetcode.com/contest/biweekly-contest-168/problems/lexicographically-smallest-string-after-reverse) -> [Code](https://leetcode.com/contest/biweekly-contest-168/problems/lexicographically-smallest-string-after-reverse/submissions/1811271324/)</br>
+   1.2 [Question](https://leetcode.com/contest/biweekly-contest-168/problems/maximize-sum-of-squares-of-digits) -> [Code](https://leetcode.com/contest/biweekly-contest-168/problems/maximize-sum-of-squares-of-digits/submissions/1811251507/)</br>
+2. Leetcode:</br>
+   2.1 [Question](https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k) -> [Code](https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k/submissions/1811355437/)</br>
+3. Needcode Sheet:</br>
+   3.1 [Question](https://leetcode.com/problems/contains-duplicate) -> [Code](https://leetcode.com/problems/contains-duplicate/submissions/1811418354/)</br>
+   3.2 [Question](https://leetcode.com/problems/valid-anagram/) -> [Code](https://leetcode.com/problems/valid-anagram/submissions/1811426775/)</br>
+   3.3 [Question](https://leetcode.com/problems/two-sum/) -> [Code](https://leetcode.com/problems/two-sum/submissions/1811431596/)</br>
+   3.4 [Question](https://leetcode.com/problems/product-of-array-except-self) -> [Code](https://leetcode.com/problems/product-of-array-except-self/submissions/1811538511/)</br>
+4. Neetcode Sheet:</br>
+   4.1 [Question](https://leetcode.com/problems/group-anagrams) -> [Code](https://leetcode.com/problems/group-anagrams/submissions/1811558691/)</br>
+   4.2 [Question](https://leetcode.com/problems/top-k-frequent-elements) -> [Code](https://leetcode.com/problems/top-k-frequent-elements/submissions/1811587260/)</br>
+   4.3 [Question](https://leetcode.com/problems/longest-consecutive-sequence) -> [Code](https://leetcode.com/problems/longest-consecutive-sequence/submissions/1811588685/)</br>
