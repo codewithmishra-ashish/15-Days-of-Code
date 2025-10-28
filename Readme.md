@@ -74,3 +74,14 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 3. Neetcode Sheet:</br>
    3.1 [Question](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) -> [Code](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1811606112/)</br>
    3.2 [Question](https://leetcode.com/problems/min-stack/) -> [Code](https://leetcode.com/problems/min-stack/submissions/1811949305/)</br>
+
+
+## Day 8
+1. Worked on building landing page for the project VocalPoint</br>
+2. Lovebabbar Sheet:</br>
+   2.1 [Question](https://leetcode.com/problems/merge-intervals/) -> [Code](https://leetcode.com/problems/merge-intervals/submissions/1814412746/)</br>
+   2.2 [Question](https://leetcode.com/problems/find-the-duplicate-number/) -> [Code](https://leetcode.com/problems/find-the-duplicate-number/submissions/1814425900/)</br>
+   2.3 [Question](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) -> [Code](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1814438237/)</br>
+   2.4 [Question](https://leetcode.com/problems/search-a-2d-matrix/) -> [Code](https://leetcode.com/problems/search-a-2d-matrix/submissions/1814444605/)</br>
+3. Striver A to Z Sheet:</br>
+   3.1 [Question](https://leetcode.com/problems/rotate-array/) -> [Code](https://leetcode.com/problems/rotate-array/submissions/1814449201/)</br>
