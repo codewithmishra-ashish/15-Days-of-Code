@@ -65,7 +65,7 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 
 ## Day 7
-1. Striver A to Z:
+1. Striver A to Z:</br>
    1.1 [Question](https://leetcode.com/problems/reverse-string/) -> [Code](https://leetcode.com/problems/reverse-string/submissions/1811599728/)</br>
    1.2 [Question](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) -> [Code](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/1811874084/)</br>
    1.3 [Question](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) -> [Code](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/submissions/1811906304/)</br>
@@ -85,3 +85,22 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
    2.4 [Question](https://leetcode.com/problems/search-a-2d-matrix/) -> [Code](https://leetcode.com/problems/search-a-2d-matrix/submissions/1814444605/)</br>
 3. Striver A to Z Sheet:</br>
    3.1 [Question](https://leetcode.com/problems/rotate-array/) -> [Code](https://leetcode.com/problems/rotate-array/submissions/1814449201/)</br>
+
+
+## Day 9
+1. Striver A to Z Sheet:
+   1.1 [Question](https://leetcode.com/problems/kth-missing-positive-number/) -> [Code](https://leetcode.com/problems/kth-missing-positive-number/submissions/1814758356/)</br>
+   1.2 [Question](https://leetcode.com/problems/missing-number/) -> [Code](https://leetcode.com/problems/missing-number/submissions/1814764048/)</br>
+   1.3 [Question](https://leetcode.com/problems/move-zeroes/) -> [Code](https://leetcode.com/problems/move-zeroes/submissions/1814770425/)</br>
+   1.4 [Question](https://leetcode.com/problems/majority-element/) -> [Code](https://leetcode.com/problems/majority-element/submissions/1814782324/)</br>
+   1.5 [Question](https://leetcode.com/problems/sort-colors/) -> [Code](https://leetcode.com/problems/sort-colors/submissions/1814785486/)</br>
+   1.6 [Question](https://leetcode.com/problems/max-consecutive-ones/) -> [Code](https://leetcode.com/problems/max-consecutive-ones/submissions/1814791481/)</br>
+   1.7 [Question](https://leetcode.com/problems/set-matrix-zeroes/) -> [Code](https://leetcode.com/problems/set-matrix-zeroes/submissions/1814802375/)</br>
+   1.8 [Question](https://leetcode.com/problems/spiral-matrix/) -> [Code](https://leetcode.com/problems/spiral-matrix/submissions/1814809015/)</br>
+   1.9 [Question](https://leetcode.com/problems/majority-element-ii/) -> [Code](https://leetcode.com/problems/majority-element-ii/submissions/1814814292/)</br>
+   1.10 [Question](https://leetcode.com/problems/remove-outermost-parentheses/) -> [Code](https://leetcode.com/problems/remove-outermost-parentheses/submissions/1814824531/)</br>
+   1.11 [Question](https://leetcode.com/problems/reverse-words-in-a-string/) -> [Code](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1814831637/)</br>
+   1.12 [Question](https://leetcode.com/problems/rotate-string/) -> [Code](https://leetcode.com/problems/rotate-string/submissions/1814843772/)</br>
+   1.13 [Question](https://leetcode.com/problems/largest-odd-number-in-string/) -> [Code](https://leetcode.com/problems/largest-odd-number-in-string/submissions/1814962712/)</br>
+   1.14 [Question](https://leetcode.com/problems/longest-common-prefix/) -> [Code](https://leetcode.com/problems/longest-common-prefix/submissions/1814969376/)</br>
+   1.15 [Question](https://leetcode.com/problems/isomorphic-strings/) -> [Code](https://leetcode.com/problems/isomorphic-strings/submissions/1814990397/)</br>
