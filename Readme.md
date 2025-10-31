@@ -133,3 +133,7 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
    2.4 [Question](https://www.codechef.com/problems/FIRSTCNT) -> [Code](https://www.codechef.com/viewsolution/1203016491)</br>
 3. Neetcode Sheet:</br>
    3.1 [Question](https://leetcode.com/problems/merge-two-sorted-lists/) -> [Code](https://leetcode.com/problems/merge-two-sorted-lists/submissions/1815984051/)</br>
+
+
+## Day 11
+1. Worked on VocalPoint Landing Page for its improvement in ui.
