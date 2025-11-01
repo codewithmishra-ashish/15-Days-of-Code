@@ -144,3 +144,12 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
    1.2 [Question](https://leetcode.com/problems/reverse-nodes-in-k-group/) -> [Code](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/1817525022/)</br>
 2. Leetcode Daily Question: [Question](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) -> [Code](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/submissions/1817554326/)</br>
 3. Worked on group project.
+4. Leetcode:</br>
+   4.1 [Question](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) -> [Code](https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/1817675909/)</br>
+   4.2 [Question](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) -> [Code](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/submissions/1817681278/)</br>
+   4.3 [Question](https://leetcode.com/problems/sort-list/) -> [Code](https://leetcode.com/problems/sort-list/submissions/1817687473/)</br>
+   4.4 [Question](https://leetcode.com/problems/find-peak-element/) -> [Code](https://leetcode.com/problems/find-peak-element/submissions/1817692102/)</br>
+   4.5 [Question](https://leetcode.com/problems/maximum-gap/) -> [Code](https://leetcode.com/problems/maximum-gap/submissions/1817694482/)</br>
+   4.6 [Question](https://leetcode.com/problems/first-missing-positive/) -> [Code](https://leetcode.com/problems/first-missing-positive/submissions/1817705204/)</br>
+   4.7 [Question](https://leetcode.com/problems/swap-nodes-in-pairs/) -> [Code](https://leetcode.com/problems/swap-nodes-in-pairs/submissions/1817768469/)</br>
+   4.8 [Question](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) -> [Code](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/submissions/1817781365)</br>
