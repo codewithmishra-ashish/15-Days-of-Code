@@ -88,7 +88,7 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 
 ## Day 9
-1. Striver A to Z Sheet:
+1. Striver A to Z Sheet:</br>
    1.1 [Question](https://leetcode.com/problems/kth-missing-positive-number/) -> [Code](https://leetcode.com/problems/kth-missing-positive-number/submissions/1814758356/)</br>
    1.2 [Question](https://leetcode.com/problems/missing-number/) -> [Code](https://leetcode.com/problems/missing-number/submissions/1814764048/)</br>
    1.3 [Question](https://leetcode.com/problems/move-zeroes/) -> [Code](https://leetcode.com/problems/move-zeroes/submissions/1814770425/)</br>
@@ -112,7 +112,7 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 
 ## Day 10
-1. Striver A to Z Sheet:
+1. Striver A to Z Sheet:</br>
    1.1 [Question](https://leetcode.com/problems/sort-characters-by-frequency/) -> [Code](https://leetcode.com/problems/sort-characters-by-frequency/submissions/1815326519/)</br>
    1.2 [Question](https://leetcode.com/problems/string-to-integer-atoi/) -> [Code](https://leetcode.com/problems/string-to-integer-atoi/submissions/1815343614/)</br>
    1.3 [Question](https://leetcode.com/problems/delete-node-in-a-linked-list/) -> [Code](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/1815914378/)</br>
@@ -137,3 +137,10 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 ## Day 11
 1. Worked on VocalPoint Landing Page for its improvement in ui.
+
+## Day 12
+1. Neetcode Sheet:
+   1.1 [Question](https://leetcode.com/problems/merge-k-sorted-lists/) -> [Code](https://leetcode.com/problems/merge-k-sorted-lists/submissions/1817491695/)</br>
+   1.2 [Question](https://leetcode.com/problems/reverse-nodes-in-k-group/) -> [Code](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/1817525022/)</br>
+2. Leetcode Daily Question: [Question](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) -> [Code](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/submissions/1817554326/)</br>
+3. Worked on group project.
