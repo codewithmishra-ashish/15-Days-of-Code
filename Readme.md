@@ -153,3 +153,13 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
    4.6 [Question](https://leetcode.com/problems/first-missing-positive/) -> [Code](https://leetcode.com/problems/first-missing-positive/submissions/1817705204/)</br>
    4.7 [Question](https://leetcode.com/problems/swap-nodes-in-pairs/) -> [Code](https://leetcode.com/problems/swap-nodes-in-pairs/submissions/1817768469/)</br>
    4.8 [Question](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) -> [Code](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/submissions/1817781365)</br>
+
+
+## Day 13
+1. Leetcode:
+   1.1 [Question](https://leetcode.com/problems/add-two-numbers/) -> [Code](https://leetcode.com/problems/add-two-numbers/submissions/1817884430/)</br>
+   1.2 [Question](https://leetcode.com/problems/rotate-list/) -> [Code](https://leetcode.com/problems/rotate-list/submissions/1817983958/)</br>
+   1.3 [Question](https://leetcode.com/problems/find-missing-elements/) -> [Code](https://leetcode.com/problems/find-missing-elements/submissions/1818422181/)</br>
+   1.4 [Question](https://leetcode.com/problems/sort-an-array/) -> [Code] (https://leetcode.com/problems/sort-an-array/submissions/1818931715/)</br>
+   1.5 [Question](https://leetcode.com/problems/insertion-sort-list/) -> [Code](https://leetcode.com/problems/insertion-sort-list/submissions/1818945723/)</br>
+2. Leetcode Daily Question: [Question](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) -> [Code](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/submissions/1818673909)</br>
