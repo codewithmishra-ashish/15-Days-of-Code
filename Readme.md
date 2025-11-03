@@ -163,3 +163,8 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
    1.4 [Question](https://leetcode.com/problems/sort-an-array/) -> [Code] (https://leetcode.com/problems/sort-an-array/submissions/1818931715/)</br>
    1.5 [Question](https://leetcode.com/problems/insertion-sort-list/) -> [Code](https://leetcode.com/problems/insertion-sort-list/submissions/1818945723/)</br>
 2. Leetcode Daily Question: [Question](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) -> [Code](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/submissions/1818673909)</br>
+
+
+## Day 14
+1. Leetcode Daily Question: [Question](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) -> [Code](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/submissions/1819737221)</br>
+2. Worked on OOPS.
