@@ -168,3 +168,6 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 ## Day 14
 1. Leetcode Daily Question: [Question](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) -> [Code](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/submissions/1819737221)</br>
 2. Worked on OOPS.
+
+## Day 15
+1. Worked on minor project & continued study of OOPS.
